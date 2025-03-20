@@ -1,0 +1,86 @@
+.main{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px ;
+    padding-bottom: 8px;
+}
+.firstTalk{
+    text-align: center;
+    border: 0px solid lightblue;
+    color: blue;
+    padding: 1px;
+    margin: auto;
+    width: 150px;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.new{
+     border: none; 
+     outline : none;  
+     width: 300px;
+
+}
+.inputDiv{
+    width: 400px;
+    height: 30px;
+    border:1px solid rgb(179, 178, 178);
+    border-radius: 8px;
+    
+    padding-top: 10px;
+    align-items: center;
+    margin-left: 35%;
+    box-shadow: 2px 2px 15px 15px beige;
+}
+.row{
+    border: 0px solid lightblue;
+    color: blue;
+    padding: 6px;
+    margin: auto;
+    width: 110px;
+    background-color: lightblue;
+    border-radius: 12px;
+
+}
+ .Active{
+    border: 0.5px solid white;
+    /* padding-top: 2px; */
+    width: 470px; 
+    padding-left: 550px;
+     
+}
+.lable{
+    text-align: center;
+    border: 0px solid white;
+    color: black;
+    padding: 1px;
+    margin: auto;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+}
+    
+
+/* .samerow{
+    border: 0.5px solid white;
+    width: 470px; 
+    
+     
+} */
+.radio{
+    /* border: none;
+    outline: none;
+    width: 300px;
+    height: 50px; */
+    width: 400px;
+    height: 30px;
+    border-radius: 8px;
+    padding-top: 10px;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: 2px 2px 15px 15px lightgray;
+
+}
