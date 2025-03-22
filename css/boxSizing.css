@@ -1,0 +1,12 @@
+hr{
+    width: 700px;
+    margin-left: 0px;
+}
+.box1{
+    width:700px;
+    background: skyblue;
+    border: 10px solid red;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
