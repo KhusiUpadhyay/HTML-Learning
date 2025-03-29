@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}.first{
+    border: 2px solid black;
+}
+.second{
+    width: 25%;
+    float: left;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.third{
+    width: 25%;
+    float: left;
+    background-color: lightgray;
+    padding: 10px;
+  
+}
+.fourth{
+    width: 25%;
+    float: left;
+    background-color: lightpink;
+    padding: 10px;
+
+}
+.fifth{
+    width: 25%;
+    float: left;
+    background-color: lightskyblue;
+    padding: 10px;
+  
+}
+.clearfix{
+    clear: both;
+}
