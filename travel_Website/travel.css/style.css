@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+body{
+    font-family: sans-serif;
+}
+.header ul li{
+    list-style: none;
+}
+.header a{
+    font-size: 16px;
+    text-decoration: none;
+}
+.header  li{
+    font-size: 16px;
+    margin-bottom: 16px;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+.header{
+    height: 95vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../travelAssests.jpg/fifth.jpg);
+   background-position: center;
+   background-size: cover;
+}
+.navbar{
+    border: 2px solid red;
+
+    
+}
+
+.header .logo,
+ .navbar .nav-items a{
+    color: white;
+}
+
+.header .navbar .logo{
+    float: left;
+}
+
+.header .navbar .nav-items{
+    float: right;
+}
+
+.header .navbar .nav-items{
+        display: inline-block;
+}
+
+.navbar::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
