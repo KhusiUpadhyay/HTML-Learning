@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+}
+.header{
+    background-color: lightpink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    flex-wrap: nowrap;
+}
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    overflow-y: hidden;
+    color: navy;
+
+    overflow: hidden;
+    line-height: 1;
+    transform: scale(1.8); /* Scales the logo without changing header height */
+    transform-origin: center; 
+}
+
+
+.menu a{
+    margin: 7px;
+    text-decoration: none;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sociallink{
+    display: flex;
+}
+.sociallink a{
+    margin: 10px;
+    text-decoration: none;
+    padding-right: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.aside{
+    width: 20%;
+    height: 100%;
+}
+.side-bar a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    border-bottom: 2px solid navy;
+}
+.article{
+    display: flex;
+}
