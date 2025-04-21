@@ -1,0 +1,116 @@
+
+
+body{
+    font-family: cursive;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    
+    
+}
+.header{
+    padding: 10px;
+    background-color: #2874f0;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+    
+}
+.flipkart-container{
+    background-color: #2874f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.flipkart{
+    color: white;
+    font-size: 24px;
+   padding: 0px;
+   font-style: italic;
+   font-weight: bold;
+ 
+
+}
+.explore{
+    color: white;
+    font-size: 15px;
+    width: 90px;
+    
+} 
+span{
+    color: yellow;
+}
+.flip-ex{
+    padding-right: 20px;
+}
+.search input{
+    width: 600px;
+    height: 50px;
+    font-size: 25px;
+    
+}
+.fullsearch{
+    display: flex;
+    padding-right: 30px;
+}
+.fa-search{
+    color:  blue;
+    size: 100px;
+    display: inline-flex;
+   
+}
+button{
+    width: 150px; 
+    font-size: 25px;
+    color: blue;
+    padding-bottom: 10px;
+    padding-top: 5px;
+   
+}
+.button{
+    margin-right: 30px;
+}
+.Seller{
+    
+    text-decoration: none;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-right: 30px;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: none;
+
+}
+.More{
+    text-decoration: none;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-right: 30px;
+    font-size: 20px;
+
+}
+.Cart{
+
+    text-decoration: none;
+    font-family: Inter, -apple-system, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+
+
+ /* ###########################3 Login Page CSS ################################ */
+
+

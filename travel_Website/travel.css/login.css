@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+
+.login{
+    background-color:  #2874f0;
+    /* background-position: center 85%; */
+    color: #fff;
+    height: 500px;
+
+}
+.form{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 500px;
+}
+input{
+    width: 80%;
+
+}
+form{
+    display: flex;
+    align-items: center;
+}
