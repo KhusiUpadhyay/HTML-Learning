@@ -79,3 +79,14 @@ button{
     font-size: 20px;
     margin-left: 30px;
 }
+.footer{
+    background-color:  #212121;
+    color: white;
+    height: 300px;
+    width: 100vw;
+
+}
+.about{
+    display: block;
+}
+
