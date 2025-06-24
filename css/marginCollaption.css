@@ -1,0 +1,33 @@
+/* body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.box1, .box2{
+    border: 2px solid black;
+
+}
+.box1{
+    margin-bottom: 40px;
+}
+.box2{
+    margin-top: 60px;
+} */
+/* h1,h2{
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+}
+a{
+    border: 2px solid black;
+} */
+.image2{
+    width: 579px;
+    
+}
+.image1{
+    width: 630px;
+}
+img{
+    border: 15px solid black;
+    padding: 20px;
+    margin: 50px;
+}

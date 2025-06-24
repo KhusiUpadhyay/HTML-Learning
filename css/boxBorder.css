@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    border: 0px solid gray;
+    color: black;
+    padding: 10px;
+    margin: auto;
+    width: 800px;
+    background-color: gray;
+
+
+}
+.about{
+    border: 2px solid black;
+    text-align:start;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.h3heading{
+    text-align: left;
+}

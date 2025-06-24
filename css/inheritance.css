@@ -1,0 +1,35 @@
+/* body{
+    color: red;
+}
+.container1{
+    color: black;
+}
+.container2{
+    color: purple;
+} */
+/* h1{
+    background-color: aqua;
+    width: 500px;
+    text-align: center;
+} */
+/* p{
+    font-weight: 0px;
+    word-spacing: 20px;
+    letter-spacing: 5px;
+}
+h1{
+    text-decoration: dashed underline 2px red;
+} */
+                           /* Link, Visited, Hovor, Active  */
+a:link{
+    color: orange;
+}
+a:visited{
+    color: chartreuse;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color: black;
+}

@@ -1,0 +1,64 @@
+.container{
+    border: 2px solid black;
+    color: white;
+    height: 200px;
+    width: 800px;
+    margin: 50px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+  /*  font-size: 20px;
+    font-weight: bold;*/
+    /* flex-wrap: wrap; */
+    /* justify-content: center; */ 
+    /* align-content: flex-start; */
+}
+
+.pp{
+    border: 1px solid black;
+}
+
+.items{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    flex-grow: 1;
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    
+}
+.one{
+    background-color: orangered;
+    flex-shrink: 1 ;
+
+}
+.two{
+    background-color: mediumpurple;
+    display: flex;
+}
+
+.three{
+    background-color: orange;
+}
+.four, .pahla{
+    background-color: hotpink;
+   
+}
+.five, .dusra{
+    background-color: red;
+}
+.six, .tisra{
+    background-color: green;
+   
+}
+.seven{
+    background-color: orange;
+}
+.eight{
+    background-color: hotpink;
+}
+.pp{
+    background-color: wheat;
+    margin: 2px;
+}

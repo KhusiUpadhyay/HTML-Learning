@@ -1,0 +1,20 @@
+h1{
+    color: Black;
+}
+.h1Class{
+    color: red !important;
+}
+div#container ul.my_song li{
+    color: blue;
+    background-color: yellow;
+}
+
+h2,img{
+    border-width: 4px;
+    border-style: inset;
+    border-color: red;
+}
+h1{
+    text-align: center;
+    border: 5px solid rosybrown;   
+}
